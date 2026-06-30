@@ -1,0 +1,14 @@
+project/
+├── main.c                  // LVGL初始化
+├── ui/
+│   ├── ui_login.c/.h       // 登录 / 注册界面
+│   ├── ui_main.c/.h        // 商品主界面
+│   ├── ui_cart.c/.h        // 购物车
+│   ├── ui_admin.c/.h       // 管理员界面
+├── data/
+│   ├── user.txt            // 用户名 密码
+│   ├── goods.txt           // 商品信息
+├── core/
+│   ├── user.c/.h           // 用户登录/注册逻辑
+│   ├── goods.c/.h          // 商品结构、读取
+│   ├── cart.c/.h           // 购物车逻辑

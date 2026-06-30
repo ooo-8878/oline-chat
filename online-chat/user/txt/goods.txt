@@ -1,0 +1,13 @@
+雪碧@S:/image/xuebi.jpg@30@2.5
+可口可乐@S:/image/kele.jpg@20@2.5
+脉动@S:/image/maidong.jpg@40@4.5
+王老吉@S:/image/wanglaoji.jpg@20@4.0
+冰红茶@S:/image/binghoncha.jpg@20@3.5
+香辣泡面@S:/image/xianglapaomian.jpg@20@6.0
+藤椒泡面@S:/image/tengjiaopaomian.jpg@20@6.0
+火鸡面@S:/image/huojimian.jpg@20@4.0
+炮弹@S:/image/paodang.jpg@20@100000.0
+干脆面@S:/image/gancuimian.jpg@20@1.0
+冰棍@S:/image/binggun.jpg@20@2.0
+薯片@S:/image/shupian.jpg@20@7.0
+面包@S:/image/mianbao.jpg@20@4.0
