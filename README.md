@@ -1,1 +1,3 @@
 # oline-chat
+server文件下有一个client他是终端的小型客户端
+user是Linux下的lvgl的ui界面
